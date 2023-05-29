@@ -1,1 +1,1 @@
-# data-science-exercises-
+# data-science-exercises
